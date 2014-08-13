@@ -20,4 +20,4 @@ data = range(0,10)
 noOfSteps = 0
 d = binary_search(data,6,0,9, 0)
 print ("The result of binary search is {}, in {} step(s), location of target is in data[{}]".format(d[0],d[1],d[2]))
- 
+#
